@@ -8,4 +8,5 @@
     else 
       count+=365
   end;
+  Print(count);
 end.
